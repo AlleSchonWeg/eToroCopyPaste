@@ -6,7 +6,7 @@ eToro Copy & Paste is a [TamperMonkey][tm] script to enable copy & paste functio
 # Installation instructions:
 
   - Install TamperMonkey Extension for chrome. [Click][tm chrome].
-  - Click: https://github.com/AlleSchonWeg/eToroCopyPaste/raw/master/Enable.Select.user.js
+  - Click: https://github.com/AlleSchonWeg/eToroCopyPaste/raw/master/EnableCopyPaste.user.js
   - Click install to confirm installation.
   - Refresh eToro website. Hit ctrl+f5 to force reload.
 
